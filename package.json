@@ -1,0 +1,23 @@
+{
+  "name": "howtonpm",
+  "version": "1.0.0",
+  "description": "A tutorial on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjmax75/howtonpm.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "JJMax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjmax75/howtonpm/issues"
+  },
+  "homepage": "https://github.com/jjmax75/howtonpm#readme"
+}
